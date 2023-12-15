@@ -1,0 +1,29 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt generated
+.ckasspath
+.projects
+.settings
+.springBeans
+.sts4-cache
+
+### Intellige ###
+.idea
+#.iws
+#.imi
+#.ipr
+
+### Netbeans ###
+/nbproject/private/
+/nbbuild/
+dist/
+/nbdist/
+/nb-gradel/
+build/
+!##/src/main/##/build/
+!##/src/test/##/build/
